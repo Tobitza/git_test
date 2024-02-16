@@ -1,3 +1,3 @@
 # git_test
-First Readme EUNE.
+First Readme EUNE!
 Hello Odin!
